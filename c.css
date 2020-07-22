@@ -1,0 +1,49 @@
+body{
+    background-color: paleturquoise;
+    margin: 7px;
+}
+
+/* .result{
+    min-width: 250px;
+    max-width: 300px;
+    border: 5px solid green;
+    padding: 25px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+} */
+
+.display{
+    min-width: 300px;
+    max-width: 300px;
+    margin: auto;
+    border: 3px solid rgb(0, 148, 148);
+    font-size: 30px;
+    text-align: center;
+    padding: 25px;
+    color: paleturquoise;
+    background-color: lightseagreen;
+}
+
+.operators{
+    min-width: 250px;
+    max-width: 300px;
+    margin: auto;
+    background-color: lightseagreen;
+    border: 3px solid rgb(0, 148, 148);
+}
+
+.oper{
+    border-radius: 50%;
+    border: 3px solid rgb(0, 148, 148);
+    background-color: paleturquoise;
+    padding: 20px;
+    width: 70px;
+    height: 70px;
+    font-size: 23px;
+    outline: none;
+}
+
+.oper:hover{
+    background-color: grey;
+}
